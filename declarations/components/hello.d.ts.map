@@ -1,0 +1,1 @@
+{"version":3,"file":"hello.d.ts","sourceRoot":"","sources":["../../src/components/hello.ts"],"names":[],"mappings":"AAAA,OAAO,SAAS,MAAM,oBAAoB,CAAC;AAE3C,UAAU,cAAc;IACtB,IAAI,EAAE;QACJ,GAAG,EAAE,MAAM,CAAC;KACb,CAAC;IACF,OAAO,EAAE,cAAc,CAAC;CACzB;AAED,MAAM,CAAC,OAAO,OAAO,KAAM,SAAQ,SAAS,CAAC,cAAc,CAAC;IAC1D,KAAK,SAAO;CAUb"}
